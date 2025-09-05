@@ -1,6 +1,6 @@
 {
-    "name": "krloader",
-    "version": "3.0.1",
+    "name": "yujf-koa.router.loader",
+    "version": "3.0.5",
     "description": "koa router loader",
     "author": {
         "name": "yujinfeng",
