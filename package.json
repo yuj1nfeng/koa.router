@@ -1,0 +1,22 @@
+{
+    "name": "krloader",
+    "version": "3.0.1",
+    "description": "koa router loader",
+    "author": {
+        "name": "yujinfeng",
+        "email": "yujf1007@gmail.com"
+    },
+    "module": "index.js",
+    "type": "module",
+    "private": false,
+    "publishConfig": {
+        "access": "public"
+    },
+    "dependencies": {
+        "@koa/router": "^14.0.0",
+        "@types/koa__router": "^12.0.4"
+    },
+    "peerDependencies": {
+        "typescript": "^5"
+    }
+}
